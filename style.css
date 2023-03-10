@@ -1,0 +1,15 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .box div {
+    width: 50%;
+    height: 50%;
+    box-sizing: border-box;
+    border: 1px solid black;
+  }
+  
